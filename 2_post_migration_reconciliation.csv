@@ -1,0 +1,3 @@
+Target_File_Name,Source_Path,Expected_Size,Expected_Department,Expected_DocType,Metadata_Verified,Validation_Status
+CNC_Operating_Policy_1.docx,Engineering/CNC_Operating_Policy#1.docx,39,Engineering,Policy,Yes,PASS - Verified
+Q3_Audit_Report.xlsx,Quality_Assurance/Q3_Audit_Report.xlsx,36,Quality_Assurance,Report,No,WARN - Missing Required Metadata

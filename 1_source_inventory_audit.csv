@@ -1,0 +1,5 @@
+Source_Path,Original_Name,Cleaned_Target_Name,File_Size_Bytes,Last_Modified,MD5_Checksum,Naming_Violation,Migration_Decision,Target_SP_Library,Target_Metadata_Department,Target_Metadata_DocType
+Engineering/CNC_Operating_Policy#1.docx,CNC_Operating_Policy#1.docx,CNC_Operating_Policy_1.docx,39,2026-11-10,1537157219f25a47241357615d822839,Yes,Migrate to SharePoint Online,Documents,Engineering,Policy
+Engineering/Subsite_A/2018_Archive/Temp_Empty.txt,Temp_Empty.txt,Temp_Empty.txt,0,2026-11-10,d41d8cd98f00b204e9800998ecf8427e,No,Skip - Trivial/Temp File,Documents,Engineering,Standard Operating Procedure
+Quality_Assurance/Q3_Audit_Report.xlsx,Q3_Audit_Report.xlsx,Q3_Audit_Report.xlsx,36,2026-11-10,f96fdb47f52992db25c096c30e0297d1,No,Migrate to SharePoint Online,Documents,Quality_Assurance,Report
+Quality_Assurance/Copy_of_CNC_Policy.docx,Copy_of_CNC_Policy.docx,Copy_of_CNC_Policy.docx,39,2026-11-10,1537157219f25a47241357615d822839,No,Skip - Duplicate of Engineering/CNC_Operating_Policy#1.docx,Documents,Quality_Assurance,Policy
